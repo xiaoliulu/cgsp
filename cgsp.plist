@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://10.158.176.53:8080/cggl/cgjg.ipa</string>
+<string>http://192.168.191.1:8086/cgjgsp190917/cgjg.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
