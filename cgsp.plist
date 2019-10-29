@@ -9,7 +9,7 @@
             <array>
                 <dict>
                     <key>kind</key>
-               <string>software-package</string>
+                    <string>software-package</string>
                     <key>url</key>
                     <string>http://192.168.191.1:8086/cgjgsp190917/cgsp.ipa</string>
                 </dict>
@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-		<string>金现代.app</string>
+				<string>com.sdjxd.cgsp</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
