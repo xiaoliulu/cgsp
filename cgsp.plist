@@ -11,7 +11,7 @@
                     <key>kind</key>
                <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.191.1:8086/cgjgsp190917/cgsp.ipaa</string>
+                    <string>http://192.168.191.1:8086/cgjgsp190917/cgsp.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
